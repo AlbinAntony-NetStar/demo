@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: aca03/netstar-nginx:test1
+        image: aca03/netstar-nginx:test2
         ports:
         - containerPort: 80
 
