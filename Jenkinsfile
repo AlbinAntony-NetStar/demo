@@ -11,7 +11,7 @@ pipeline {
 
     stage('Checkout Source') {
       steps {
-        git 'https://github.com/AlbinAntony-NetStar/demo-k8-cicd.git'
+        git 'https://github.com/AlbinAntony-NetStar/demo.git'
       }
     }
 
